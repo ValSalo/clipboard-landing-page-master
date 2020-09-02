@@ -158,6 +158,10 @@ a{
     padding: 7% 10% 3%;
   }
 
+  .button {
+    margin: 10% 0;
+  }
+
   .features-header{
     padding: 7% 10% 1%;
   }
